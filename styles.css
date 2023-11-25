@@ -6,6 +6,7 @@
 body {
     height: 100vh;
     background-image: url(./imgs/background.png);
+    font-family: 'Poppins', sans-serif;
 }
 
 main {
